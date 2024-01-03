@@ -196,7 +196,7 @@ div.desc {
   /*width: 33.33332%;*/
 }
 
-@media only screen and (max-width: 900px) {
+@media screen and (max-width: 900px) {
   .responsive {
     flex: 49.99999%;
     max-width: 49.99999%;
@@ -227,7 +227,7 @@ div.desc {
 	
 
 
-@media only screen and (max-width: 700px) {
+@media screen and (max-width: 700px) {
   .responsive {
     flex: 100%;
     max-width: 100%;
@@ -404,13 +404,13 @@ div.budynki:hover .zdjeciebudynku {
 	flex-wrap: wrap;
 }
 
-@media only screen and (max-width: 1100px) {
+@media screen and (max-width: 1100px) {
 	.nazwabudynku {
 		font-size: 25px;
 	}
 }
 
-@media only screen and (max-width: 900px) {
+@media screen and (max-width: 900px) {
 	div.architekt {
 		flex: 50%;
 		max-width: 50%;
@@ -426,7 +426,7 @@ div.budynki:hover .zdjeciebudynku {
 	}
 }
 
-@media only screen and (max-width: 700px) {
+@media screen and (max-width: 700px) {
 	.responsivetwo {
 		flex-wrap: wrap;
 	}
@@ -574,7 +574,7 @@ div.opisbudynku .lokalizacja {
 }
 
 
-@media only screen and (max-width: 1100px) {
+@media screen and (max-width: 1100px) {
 	.buildname {
 		font-size: 33px;
 	}
@@ -592,14 +592,14 @@ div.opisbudynku .lokalizacja {
 	}
 }
 
-@media only screen and (max-width: 900px) {
+@media screen and (max-width: 900px) {
 	.column {
 		flex: 48%;
 		max-width: 48%;
 	}
 }
 
-@media only screen and (max-width: 700px) {
+@media screen and (max-width: 700px) {
 	.responsivethree {
 		flex-wrap: wrap;
 	}
@@ -785,7 +785,7 @@ div.opisbudynku .lokalizacja {
 
 }
 
-@media only screen and (max-width: 900px) {
+@media screen and (max-width: 900px) {
 	.mainbuttons {
   	padding-right: 2%;
   	padding-left: 2%;
